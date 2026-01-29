@@ -18,10 +18,10 @@ Instead of simply copying code, I focus on:
 
 Here is the list of resources I am currently studying or have completed.
 
-| Category | Title | Status | Link |
-| :---: | :--- | :---: | :---: |
-| 📘 **Book** | **DeepLearningFromScratch(KokiSaitoh)** | 🏃 In Progress | [Go to Folder](./DeepLearningFromScratch-KokiSaitoh) |
-| 🖥️ **Lecture** | **DeepLearningForEveryone(SungKim)** | 🏃 In Progress | [Go to Folder](DeepLearningForEveryone-SungKim) |
+| Category | Title | Status | Link | Lan |
+| :---: | :--- | :---: | :---: | :---: |
+| 📘 **Book** | **DeepLearningFromScratch(KokiSaitoh)** | 🏃 In Progress | [Go to Folder](./DeepLearningFromScratch-KokiSaitoh) | Kor |
+| 🖥️ **Lecture** | **DeepLearningForEveryone(SungKim)** | 🏃 In Progress | [Go to Folder](DeepLearningForEveryone-SungKim) | Kor |
 
 <br>
 
