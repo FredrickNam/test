@@ -20,7 +20,7 @@ Here is the list of resources I am currently studying or have completed.
 
 | Category | Title | Status | Link | Lan |
 | :---: | :--- | :---: | :---: | :---: |
-| 📘 **Book** | **DeepLearningFromScratch(KokiSaitoh)** | 🏃 In Progress | [Go to Folder](./DeepLearningFromScratch1-KokiSaito) | Kor |
+| 📘 **Book** | **DeepLearningFromScratch1(KokiSaitoh)** | 🏃 In Progress | [Go to Folder](./DeepLearningFromScratch1-KokiSaito) | Kor |
 | 🖥️ **Lecture** | **DeepLearningForEveryone(SungKim)** | 🏃 In Progress | [Go to Folder](DeepLearningForEveryone-SungKim) | Kor |
 
 <br>
