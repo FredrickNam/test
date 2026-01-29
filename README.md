@@ -8,6 +8,7 @@ The purpose of this repository is to track my study progress and manage the sour
 
 Each **folder** in this repository corresponds to a specific **Book** or **Lecture** I have studied.
 Instead of simply copying code, I focus on:
+* **Elucidating** what I want to study in the future.
 * **Understanding** the core concepts.
 * **Refactoring** for better readability.
 * **Documenting** what I learned.
